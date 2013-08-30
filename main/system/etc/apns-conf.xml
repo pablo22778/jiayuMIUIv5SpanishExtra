@@ -507,9 +507,9 @@
   <apn carrier="Vodafone Internet"
       mcc="214"
       mnc="01"
-      apn="ac.vodafone.es"
-      user="vodafone"
-      password="vodafone"
+      apn="airtelwap.es"
+      user="wap@wap"
+      password="wap125"
   />
 
   <apn carrier="Vodafone MMS"
