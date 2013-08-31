@@ -510,6 +510,8 @@
       apn="airtelwap.es"
       user="wap@wap"
       password="wap125"
+	  type="default,supl"
+      authtype="0"
   />
 
   <apn carrier="Vodafone MMS"
