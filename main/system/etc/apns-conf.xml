@@ -653,7 +653,6 @@
       password="wap125"
       mmsproxy="212.73.32.10" 
       mmsport="80" 
-      authtype="3"
 	  type="internet" 
   />
   
@@ -665,7 +664,6 @@
       password="wap125"
       mmsproxy="212.73.32.10" 
       mmsport="80" 
-      authtype="2"
 	  type="mms" 
   />
     
